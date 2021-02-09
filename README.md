@@ -106,7 +106,7 @@ En otras palabras, podemos decir que el fasor puede considerarse como un equival
 
 ## 3. Diagramas
 
-Matemáticamente, los números complejos sonun conjunto de números, formado por los reales y los imaginarios, como se observa acontinuación.
+Matemáticamente, los números complejos son un conjunto de números, formado por los reales y los imaginarios, como se observa acontinuación.
 ![](https://i2.wp.com/3con14.com/_data/_config/online/conjuntos.png?resize=339%2C145)
 
 Para realizar las operaciones como la multiplicación y división debemos tener muy presente la siguiente tabla:
